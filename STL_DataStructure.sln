@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListQuizzle", "ListQuizzle\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Deque", "Deque\Deque.vcxproj", "{3E7255D4-C92D-4CB2-AFEF-8750A39F5F13}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnorderedMap", "UnorderedMap\UnorderedMap.vcxproj", "{FE1B28DA-635B-4D9E-AD2E-B5CE31E4670E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{3E7255D4-C92D-4CB2-AFEF-8750A39F5F13}.Release|x64.Build.0 = Release|x64
 		{3E7255D4-C92D-4CB2-AFEF-8750A39F5F13}.Release|x86.ActiveCfg = Release|Win32
 		{3E7255D4-C92D-4CB2-AFEF-8750A39F5F13}.Release|x86.Build.0 = Release|Win32
+		{FE1B28DA-635B-4D9E-AD2E-B5CE31E4670E}.Debug|x64.ActiveCfg = Debug|x64
+		{FE1B28DA-635B-4D9E-AD2E-B5CE31E4670E}.Debug|x64.Build.0 = Debug|x64
+		{FE1B28DA-635B-4D9E-AD2E-B5CE31E4670E}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE1B28DA-635B-4D9E-AD2E-B5CE31E4670E}.Debug|x86.Build.0 = Debug|Win32
+		{FE1B28DA-635B-4D9E-AD2E-B5CE31E4670E}.Release|x64.ActiveCfg = Release|x64
+		{FE1B28DA-635B-4D9E-AD2E-B5CE31E4670E}.Release|x64.Build.0 = Release|x64
+		{FE1B28DA-635B-4D9E-AD2E-B5CE31E4670E}.Release|x86.ActiveCfg = Release|Win32
+		{FE1B28DA-635B-4D9E-AD2E-B5CE31E4670E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
